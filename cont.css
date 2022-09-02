@@ -1,0 +1,9 @@
+html{background-color: rgb(120, 120, 173);}
+form{padding: 14px 14px; }
+label{padding: 14px 14px;}
+input{padding: 14px 14px;
+border-radius: 20px;color: rgb(55, 75, 0);background-color: aqua;}
+button{padding: 20px 50px;
+border-radius: 20px;
+background-color: orangered;
+cursor: pointer;}
